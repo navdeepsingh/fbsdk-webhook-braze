@@ -1,3 +1,3 @@
 <?php 
-phpinfo();
+echo 'Hello Buddy!!<br><small>~ Navdeep Singh</small>'
 ?>
