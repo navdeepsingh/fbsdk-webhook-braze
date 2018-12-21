@@ -47,7 +47,7 @@ window.fbAsyncInit = function() {
           ul.appendChild(li);
         }
       })
-    }, {scope: 'leads_retrieval'});
+    }, {scope: 'manage_pages, leads_retrieval'});
   }
 
 </script>
